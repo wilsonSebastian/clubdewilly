@@ -1,6 +1,7 @@
 # Inicio de proyecto para transmitir online.
-# Frontend React
-# Backend En analisis
+Frontend React
+Backend En análisis
+BD análisis 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
